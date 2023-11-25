@@ -1,0 +1,22 @@
+Assembly Accession	Assembly Name	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Stats Total Sequence Length	Assembly Level	Assembly Release Date	WGS project accession
+GCA_001599735.1	JCM_2334_assembly_v001	Naganishia albida		JCM 2334						20697359	Scaffold	2016-03-01	BCHV01
+GCA_030039215.1	DBVPG_5303	Naganishia onofrii		DBVPG 5303					Annotation submitted by Jet Propulsion Laboratory, California Institute of Technology	23784507	Contig	2023-05-19	JASBWV01
+GCA_013423385.1	N_liquefaciens_N6_1.0	Naganishia liquefaciens		N6					Annotation submitted by School of Life Science and Technology, Tokyo Institute of Technology	19492980	Scaffold	2020-07-08	BLZA01
+GCA_015708705.1	Nagvi1	Naganishia vishniacii ANT03-052		ANT03-052						19679091	Scaffold	2020-12-01	JABEVT01
+GCA_030039245.1	MNACCFEE_5425	Naganishia vaughanmartiniae		MNA-CCFEE 5425					Annotation submitted by Jet Propulsion Laboratory, California Institute of Technology	23003986	Contig	2023-05-19	JASBWU01
+GCA_030039255.1	MNACCFEE_5423	Naganishia friedmannii		MNA-CCFEE 5423					Annotation submitted by Jet Propulsion Laboratory, California Institute of Technology	23839142	Contig	2023-05-19	JASBWT01
+GCA_012922715.1	ASM1292271v1	Naganishia adeliensis		IF1SW-F1						19403212	Scaffold	2020-04-28	JAAZPZ01
+GCA_012922685.1	ASM1292268v1	Naganishia sp. IF7SW-B1		IF7SW-B1						19429219	Scaffold	2020-04-28	JAAZQA01
+GCA_013461525.1	ASM1346152v1	Naganishia randhawae		eABCC1						20271596	Contig	2020-07-22	JABRPJ01
+GCA_022813745.1	ASM2281374v1	Naganishia sp. KV-2022a		FJI-L2-BK-P3						27861060	Scaffold	2022-04-04	JAKLLX01
+GCA_030039265.1	MNACCFEE_5261	Naganishia cerealis		MNA-CCFEE 5261					Annotation submitted by Jet Propulsion Laboratory, California Institute of Technology	24976512	Contig	2023-05-19	JASBWR01
+GCA_025758675.1	ASM2575867v1	Naganishia antarctica		DBVPG 5271						21218161	Scaffold	2022-10-19	JANGFJ01
+GCA_023628155.1	ASM2362815v1	Naganishia albida		PT4301						20661800	Scaffold	2022-06-01	JAMALF01
+GCA_024322255.1	AFRL_Nalb_1.0	Naganishia albida		5307AI					Annotation submitted by Air Force Research Laboratory	20667795	Scaffold	2022-07-19	JAMKMX01
+GCA_023628175.1	ASM2362817v1	Naganishia albida		P1801B						20845140	Scaffold	2022-06-01	JAMALE01
+GCA_001468955.1	ASM146895v1	Naganishia albida		NT2002						20877543	Contig	2015-12-17	LLJT01
+GCA_012922635.1	ASM1292263v1	Naganishia albida		IIF5SW-F1						19428531	Scaffold	2020-04-28	JAAZPY01
+GCA_012922605.1	ASM1292260v1	Naganishia albida		IF6SW-B1						19422953	Scaffold	2020-04-28	JAAZPV01
+GCA_001444555.1	ASM144455v1	[Cryptococcus] albidus var. albidus		NRRL Y-1402						24807186	Contig	2015-11-17	LKPZ01
+GCA_019775365.1	ASM1977536v1	Naganishia liquefaciens		I2-R1						19471643	Scaffold	2021-08-26	JACWFY01
+GCA_030039275.1	MNACCFEE_5262	Naganishia adeliensis		MNA-CCFEE 5262					Annotation submitted by Jet Propulsion Laboratory, California Institute of Technology	23268283	Contig	2023-05-19	JASBWS01
