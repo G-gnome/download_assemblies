@@ -2,7 +2,10 @@
 
 ## Overview
 
-This script facilitates the download of Naganishia NCBI assemblies based on a metadata file obtained from [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/genome/?taxon=1851509). The downloaded files are then renamed using the assembly and species names, and a `.fasta` extension is appended.
+This script facilitates the download of NCBI assemblies based on a metadata file obtained from [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/genome/?taxon=1851509). The metadata file in lib is for Naganishia specifically, but you can use any you choose. The downloaded files are then renamed using the assembly and species names, and a `.fasta` extension is appended.
+
+## Dependencies
+1. NCBI Datasets
 
 ## Usage
 
