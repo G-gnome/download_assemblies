@@ -10,7 +10,7 @@ This script facilitates the download of Naganishia NCBI assemblies based on a me
    - Ensure you have the metadata file downloaded from [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/genome/?taxon=1851509) and stored in lib.
 
 2. **Run the Script:**
-   - Execute the script 01_genome_dowload.sh to download and rename the assemblies. The output will be stored in download as FASTA files. 
+   - Execute the script 01_genome_dowload.sh to download and rename the assemblies. The output will be stored in download as FASTA files. You may want to use 02_cleanup.sh to cleanup afterwards.
 
 ## Acknowlodegements
 
