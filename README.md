@@ -1,4 +1,4 @@
-# NCBI Assembly Downloader and Renamer
+# NCBI Assembly Download and rename pipeline
 
 ## Overview
 
