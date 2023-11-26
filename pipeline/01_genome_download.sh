@@ -18,8 +18,8 @@ IFS=$'\t'
 tail -n +2 $METADATA_FILE | while read ASSEMBLY ACCESSION ORGANISM_NAME _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 do
   # Replace spaces with underscores in variables
-  SANITIZED_ASSEMBLY=$(echo "$ASSEMBLY" | tr ' ' '_' | tr '[' '.' | tr ']' '.')
-  SANITIZED_ORGANISM_NAME=$(echo "$ORGANISM_NAME" | tr ' ' '_' | tr '[' '.' | tr ']' '.')
+  SANITIZED_ASSEMBLY=$(echo "$ASSEMBLY" | tr ' ' '_')
+  SANITIZED_ORGANISM_NAME=$(echo "$ORGANISM_NAME" | tr ' ' '_')
 
   # Construct sanitized file paths
   GENOMIC_FILE="ncbi_dataset/ncbi_dataset/data/$SANITIZED_ASSEMBLY/${SANITIZED_ASSEMBLY}_${ACCESSION}_genomic.fna"
