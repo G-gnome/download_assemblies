@@ -1,4 +1,4 @@
-# NCBI Assembly Download and rename pipeline
+# NCBI Assembly Download and Rename by Species
 
 ## Overview
 
