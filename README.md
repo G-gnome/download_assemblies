@@ -17,4 +17,4 @@ This script facilitates the download of NCBI assemblies based on a metadata file
 
 ## Acknowlodegements
 
-Thank you to [Jason Stajich](https://github.com/hyphaltip) for the template for this code. Thank you to OpenAI chatGPT for helping refine the code. 
+Thank you to [Jason Stajich](https://github.com/hyphaltip) for the template for this code. 
